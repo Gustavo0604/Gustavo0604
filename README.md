@@ -25,7 +25,6 @@
 <hr/>
 
 <!-- ## Estou aprendendo:
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
 <code><img width="180px" src="https://www.evoluaprofissional.com.br/wp-content/uploads/2016/10/Para-Web_Montagem-e-Manuten%C3%A7%C3%A3o.png" title = "MONTAGEM E MANUTENÇÃO DE COMPUTADORES"/></code> -->
 
