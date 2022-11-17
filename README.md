@@ -5,7 +5,7 @@
  
   <br>
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00857B&width=600&height=100&size=20&multiline=true&lines=Hello!+Welcome!+my+name+is+Gustavo+Sousa,;and+I+am+currently+a+novice+programming+student.;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00857B&width=600&height=100&size=20&multiline=true&lines=Hello!+Welcome!+my+name+is+Gustavo+Sousa,;and+I+am+currently+a+novice+UX+Designer+student.;)](https://git.io/typing-svg)
 
   <!-- <h2> Olá pessoal! Sejam bem-vindos ao meu perfil! 👋</h2> -->
  
